@@ -1,4 +1,4 @@
-# Build-a-STT-dataset-with-AENEAS
+# Building-a-STT-dataset-with-AENEAS
 A tutorial based on @klintch to build or increase a STT (Deepspeech) dataset. 
 
 This tutorial is based on "https://medium.com/@klintcho/creating-an-open-speech-recognition-dataset-for-almost-any-language-c532fb2bc0cf", who did an excelent work. Because of his tutorial, I was able to create a 20 hours of transcription+audio for deepspeech. So here I'll add some tips that I learned from that process.
